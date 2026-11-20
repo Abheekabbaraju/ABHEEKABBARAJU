@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Abheek A! 👋
 
-<!--
-**Abheekabbaraju/ABHEEKABBARAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm a Cybersecurity student passionate about understanding digital security, identifying vulnerabilities and exploring how technology can be protected against cyber threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Areas of Interest
+- Ethical Hacking
+- Digital Forensics
+- Network Security
+- Cybercrime Investigation
+- Cloud Security
+
+## 🛠️ Tools & Technologies
+- Autopsy
+- FTK Imager
+- Linux
+- Python
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Cybersecurity Fundamentals
+- Digital Forensic Investigation
+- Network Security
+- Ethical Hacking
+
+## 🎯 Goals
+- Develop practical cybersecurity projects.
+- Improve my technical and programming skills.
+- Participate in CTF competitions.
+- Gain hands-on experience in cybersecurity.
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/abheek-a-48a7a732a/
+
+**Learning, exploring and securing the digital world!** 🔐
